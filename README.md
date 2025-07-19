@@ -24,7 +24,11 @@ I'm a Computer Science Engineering student specializing in  Artificial Intellige
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sayan-Mondal2022&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sayan-Mondal2022&theme=tokyonight" alt="GitHub Streak" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-Mondal2022&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ----
 
