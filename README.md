@@ -7,7 +7,7 @@ I'm a Computer Science Engineering student specializing in  Artificial Intellige
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, Java
+- **Languages:** Python, JavaScript
 - **Frameworks:** Flask
 - **Web Technologies:** HTML, CSS, REST APIs
 - **Database:** MongoDB, MySQL
