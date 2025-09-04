@@ -38,14 +38,14 @@ I’m passionate about building practical, real-world solutions that aim to solv
 <span>
   <a href="https://linkedin.com/in/sayan-sm" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" height="20" style="vertical-align:middle" />
-<!--     &nbsp;LinkedIn: linkedin.com/in/sayan-sm -->
+    &nbsp;LinkedIn: linkedin.com/in/sayan-sm
   </a>
 </span>
-&nbsp;&nbsp;
+<br>
 <span>
   <a href="mailto:sayan.sm2024@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="20" height="20" style="vertical-align:middle" />
-<!--     &nbsp;Email: sayan.sm2024@gmail.com -->
+    &nbsp;Email: sayan.sm2024@gmail.com
   </a>
 </span>
 
