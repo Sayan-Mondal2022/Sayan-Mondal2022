@@ -7,10 +7,10 @@ I’m passionate about building practical, real-world solutions that aim to solv
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, JavaScript  
+- **Languages:** Python, Java, JavaScript
 - **Frameworks:** Flask  
-- **Web Technologies:** HTML, CSS, REST APIs  
-- **Database:** MongoDB, MySQL  
+- **Web Technologies:** HTML5, CSS3, REST APIs  
+- **Database:** MongoDB, MySQL, Redis
 - **Machine Learning:** Tensorflow, Keras, scikit-learn, Pandas, Numpy, Spacy, Pytorch  
 - **Tools:** Git, GitHub, VS Code, Jupyter notebook, Postman  
 
@@ -18,9 +18,10 @@ I’m passionate about building practical, real-world solutions that aim to solv
 
 ### 🗂️ Projects
 
-- [Comment Toxicity Classification System](https://github.com/Sayan-Mondal2022/comment_toxicity_classifier.git): A NLP project that detects and labels toxic or harmful content in user comments.  
-- [Currency Converter Chatbot](https://github.com/Sayan-Mondal2022/currency_converter.git): AI chatbot that provides real-time currency conversion based on user input using exchange rate APIs.  
-- [FAQs Chatbot](https://github.com/Sayan-Mondal2022/faqs_chatbot.git): Built using Python and Tensorflow to answer frequently asked queries related to trips.  
+- [DEADLINE MANAGER](https://github.com/Sayan-Mondal2022/deadline_manager.git): A deadline management tool with Streamlit UI, Flask backend, MongoDB storage, and WhatsApp reminders via Twilio.
+- [MULTI-LABEL TOXICITY CLASSIFICATION SYSTEM](https://github.com/Sayan-Mondal2022/comment_toxicity_classifier.git): A NLP project that detects and labels toxic or harmful content in user comments.  
+- [ CURRENCY CONVERTER CHATBOT](https://github.com/Sayan-Mondal2022/currency_converter.git): AI chatbot that provides real-time currency conversion based on user input using exchange rate APIs.  
+- [FAQs CHATBOT](https://github.com/Sayan-Mondal2022/faqs_chatbot.git): Built using Python and Tensorflow to answer frequently asked queries related to trips.  
 
 ---
 
