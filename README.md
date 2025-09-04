@@ -18,7 +18,7 @@ I’m passionate about building practical, real-world solutions that aim to solv
 
 ### 🗂️ Projects
 
-- [DEADLINE MANAGER](https://github.com/Sayan-Mondal2022/deadline_manager.git): A deadline management tool with Streamlit UI, Flask backend, MongoDB storage, and WhatsApp reminders via Twilio.
+- [DEADLINE MANAGER](https://github.com/Sayan-Mondal2022/deadline_manager.git): A deadline management tool with Flask backend, MongoDB storage, and WhatsApp reminders via Twilio.
 - [MULTI-LABEL TOXICITY CLASSIFICATION SYSTEM](https://github.com/Sayan-Mondal2022/comment_toxicity_classifier.git): A NLP project that detects and labels toxic or harmful content in user comments.  
 - [ CURRENCY CONVERTER CHATBOT](https://github.com/Sayan-Mondal2022/currency_converter.git): AI chatbot that provides real-time currency conversion based on user input using exchange rate APIs.  
 - [FAQs CHATBOT](https://github.com/Sayan-Mondal2022/faqs_chatbot.git): Built using Python and Tensorflow to answer frequently asked queries related to trips.  
