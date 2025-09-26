@@ -1,18 +1,20 @@
-# Hi there, I'm Sayan 👋
+# Hello World! 🌍 I’m Sayan.
 
 ### About Me
-I'm a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning. 
-I’m passionate about building practical, real-world solutions that aim to solve problems and make a positive impact in society. I love working on projects that combine Machine Learning, full-stack development, and thoughtful design.
+I'm a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.<br>
+💻 A passionate developer who loves turning ideas into practical applications.<br>
+🚀 Enthusiastic about crafting impactful solutions with full-stack development and AI-driven systems.<br>
+🌱 Always curious, always learning — whether it’s building scalable web apps, experimenting with machine learning models, or refining user-friendly designs.<br>
+✨ My goal is to create projects that are not just functional, but meaningful and impactful in the real world.<br>
 
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, Java, JavaScript
-- **Frameworks:** Flask  
-- **Web Technologies:** HTML5, CSS3, REST APIs  
-- **Database:** MongoDB, MySQL, Redis
-- **Machine Learning:** Tensorflow, Keras, scikit-learn, Pandas, Numpy, Spacy, Pytorch  
-- **Tools:** Git, GitHub, VS Code, Jupyter notebook, Postman  
+- **Languages:** Python, Java
+- **Web Technologies:** HTML5, CSS3, JavaScript, REST APIs  
+- **Frameworks & Libraries:** Flask, Django, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Transformers, TensorFlow/Keras  
+- **Databases:** MongoDB, MySQL, Redis
+- **Development Tools:** Git, GitHub, VS Code, Jupyter notebook, Postman, Pycharm
 
 ---
 
