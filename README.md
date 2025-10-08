@@ -3,8 +3,6 @@
 ### About Me
 I'm a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.<br>
 💻 A passionate developer who loves turning ideas into practical applications.<br>
-🚀 Enthusiastic about crafting impactful solutions with full-stack development and AI-driven systems.<br>
-🌱 Always curious, always learning — whether it’s building scalable web apps, experimenting with machine learning models, or refining user-friendly designs.<br>
 ✨ My goal is to create projects that are not just functional, but meaningful and impactful in the real world.<br>
 
 ---
