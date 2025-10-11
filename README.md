@@ -23,14 +23,6 @@ I'm a Computer Science Engineering student specializing in Artificial Intelligen
 - [ CURRENCY CONVERTER CHATBOT](https://github.com/Sayan-Mondal2022/currency_converter.git): AI chatbot that provides real-time currency conversion based on user input using exchange rate APIs.  
 - [FAQs CHATBOT](https://github.com/Sayan-Mondal2022/faqs_chatbot.git): Built using Python and Tensorflow to answer frequently asked queries related to trips.  
 
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sayan-Mondal2022&theme=tokyonight" alt="GitHub Streak" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-Mondal2022&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ----
 
 ### 📫 Let's Connect!
