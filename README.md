@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">🌍 Hello World! I'm <span style="color:#00bcd4;">Sayan Mondal</span></h1>
+<h1 align="center">Hello! I'm <span style="color:#00bcd4;">Sayan 😁</span></h1>
 
 <p align="center">
   <em>Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning</em><br>
