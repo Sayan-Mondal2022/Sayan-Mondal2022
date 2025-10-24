@@ -1,4 +1,3 @@
-<!-- HEADER -->
 <h1 align="center">Hello! I'm <span style="color:#00bcd4;">Sayan</span></h1>
 
 <p align="center">
