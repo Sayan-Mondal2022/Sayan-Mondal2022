@@ -1,33 +1,77 @@
-# Hello World! 🌍 I’m Sayan.
+<!-- HEADER -->
+<h1 align="center">🌍 Hello World! I'm <span style="color:#00bcd4;">Sayan Mondal</span></h1>
 
-### About Me
-I'm a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.<br>
-💻 A passionate developer who loves turning ideas into practical applications.<br>
-✨ My goal is to create projects that are not just functional, but meaningful and impactful in the real world.<br>
-
----
-
-### 🛠️ Tech Stack
-- **Languages:** Python, Java
-- **Web Technologies:** HTML5, CSS3, JavaScript, REST APIs  
-- **Frameworks & Libraries:** Flask, Django, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Transformers, TensorFlow/Keras  
-- **Databases:** MongoDB, MySQL, Redis
-- **Development Tools:** Git, GitHub, VS Code, Jupyter notebook, Postman, Pycharm
+<p align="center">
+  <em>Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning</em><br>
+  💡 Passionate about transforming ideas into real-world AI-driven applications.<br>
+  🚀 Striving to build solutions that are not just functional, but meaningful and impactful.
+</p>
 
 ---
 
-### 🗂️ Projects
+## 🛠️ Tech Stack
 
-- [`AI POWERED TRIP PLANNER`](https://github.com/Sayan-Mondal2022/travAi.git): AI Trip Planner is an intelligent tool that creates personalized travel plans and itineraries based on user preferences.
-- [`MULTI-LABEL TOXICITY CLASSIFICATION SYSTEM`](https://github.com/Sayan-Mondal2022/comment_toxicity_classifier.git): A NLP project that detects and labels toxic or harmful content in user comments.  
-- [`CURRENCY CONVERTER CHATBOT`](https://github.com/Sayan-Mondal2022/currency_converter.git): AI chatbot that provides real-time currency conversion based on user input using exchange rate APIs.  
-- [`FAQs CHATBOT`](https://github.com/Sayan-Mondal2022/faqs_chatbot.git): Built using Python and Tensorflow to answer frequently asked queries related to trips.  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 
-----
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 
-### 📫 Let's Connect!
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" />
+  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" height="40" alt="Seaborn" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="Transformers" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras" />
 
-**LinkedIn:** [`linkedin.com/in/sayan-sm`](https://linkedin.com/in/sayan-sm)  
-**Email:** [`sayan.sm2024@gmail.com`](mailto:sayan.sm2024@gmail.com)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
 
-***
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" />
+</p>
+---
+
+## 🧠 Featured Projects
+
+| 🧩 Project | 📝 Description |
+|------------|----------------|
+| [**AI Powered Trip Planner**](https://github.com/Sayan-Mondal2022/travAi.git) | Intelligent travel planner that generates personalized itineraries using AI. |
+| [**Multi-Label Toxicity Classification System**](https://github.com/Sayan-Mondal2022/comment_toxicity_classifier.git) | NLP model that identifies and labels toxic or harmful comments. |
+| [**Currency Converter Chatbot**](https://github.com/Sayan-Mondal2022/currency_converter.git) | AI chatbot offering real-time currency conversion with exchange rate APIs. |
+| [**FAQs Chatbot**](https://github.com/Sayan-Mondal2022/faqs_chatbot.git) | Chatbot built with TensorFlow to answer common travel-related queries. |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayan-mondal2022&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan-mondal2022&layout=compact&theme=radical" height="170"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sayan-sm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sayan.sm2024@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Sayan-Mondal2022"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+⭐ *“Code is like humor — when you have to explain it, it’s bad.”*  
+<p align="right">– Sayan Mondal ✨</p>
