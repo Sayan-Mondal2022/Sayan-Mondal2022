@@ -6,7 +6,6 @@
   🚀 Striving to build solutions that are not just functional, but meaningful and impactful.
 </p>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -23,9 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="Matplotlib" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="Transformers" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
 </p>
@@ -34,13 +31,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm" />
 </p>
 
----
 
 ## 🧠 Featured Projects
 
@@ -51,7 +45,6 @@
 | [**Currency Converter Chatbot**](https://github.com/Sayan-Mondal2022/currency_converter.git) | AI chatbot offering real-time currency conversion with exchange rate APIs. |
 | [**FAQs Chatbot**](https://github.com/Sayan-Mondal2022/faqs_chatbot.git) | Chatbot built with TensorFlow to answer common travel-related queries. |
 
----
 
 ## 📊 GitHub Stats
 
@@ -60,7 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan-mondal2022&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
----
 
 ## 📫 Connect with Me
 
@@ -70,7 +62,6 @@
   <a href="https://github.com/Sayan-Mondal2022"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
 
-⭐ *“Code is like humor — when you have to explain it, it’s bad.”*  
-<p align="right">– Sayan Mondal ✨</p>
+⭐ *“Good code is its own best documentation.”*  
+<p align="right">–  Steve McConnell ✨</p>
