@@ -57,8 +57,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayan-mondal2022&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan-mondal2022&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayan-mondal2022&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayan-mondal2022&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
