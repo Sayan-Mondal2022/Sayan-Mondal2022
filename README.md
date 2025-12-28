@@ -1,6 +1,7 @@
-<h1 align="center">Hello! I'm <span style="color:#00bcd4;">Sayan</span></h1>
+Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Sayan
+==============================================================================================================================
 
-<p align="center">
+<p align="left">
   <em>Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning</em><br>
   💡 Passionate about transforming ideas into real-world AI-driven applications.<br>
   🚀 Striving to build solutions that are not just functional, but meaningful and impactful.
