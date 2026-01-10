@@ -20,7 +20,6 @@ Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 | 🧩 Project | 📝 Description |
 |------------|----------------|
-| [**AI Powered Trip Planner**](https://github.com/Sayan-Mondal2022/travAi.git) | Intelligent travel planner that generates personalized itineraries using AI. |
 | [**Multi-Label Toxicity Classification System**](https://github.com/Sayan-Mondal2022/comment_toxicity_classifier.git) | NLP model that identifies and labels toxic or harmful comments. |
 | [**Currency Converter Chatbot**](https://github.com/Sayan-Mondal2022/currency_converter.git) | AI chatbot offering real-time currency conversion with exchange rate APIs. |
 | [**FAQs Chatbot**](https://github.com/Sayan-Mondal2022/faqs_chatbot.git) | Chatbot built with TensorFlow to answer common travel-related queries. |
