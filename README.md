@@ -26,7 +26,7 @@ Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sayan-mondal2022&theme=dark&border_radius=5&card_width=497)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-five-green-56.vercel.app?user=sayan-mondal2022&theme=meta-dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 
 ## 📫 Connect with Me
