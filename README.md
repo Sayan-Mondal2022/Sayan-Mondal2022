@@ -20,6 +20,7 @@ Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 | 🧩 Project | 📝 Description |
 |------------|----------------|
+|[**Enterprise Knowledge Copilot**](https://github.com/Sayan-Mondal2022/enterprise-knowledge-copilot.git)|AI copilot using RAG and vector search for internal data.|
 | [**Multi-Label Toxicity Classification System**](https://github.com/Sayan-Mondal2022/comment_toxicity_classifier.git) | NLP model that identifies and labels toxic or harmful comments. |
 | [**Currency Converter Chatbot**](https://github.com/Sayan-Mondal2022/currency_converter.git) | AI chatbot offering real-time currency conversion with exchange rate APIs. |
 | [**FAQs Chatbot**](https://github.com/Sayan-Mondal2022/faqs_chatbot.git) | Chatbot built with TensorFlow to answer common travel-related queries. |
