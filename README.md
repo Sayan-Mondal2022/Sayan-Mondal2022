@@ -11,7 +11,7 @@ Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,flask,sklearn,pytorch,tensorflow,mongodb,mysql,postman,docker&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,flask,sklearn,mongodb,mysql,docker&perline=6" />
 </p>
 
 
