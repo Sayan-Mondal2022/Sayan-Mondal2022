@@ -20,7 +20,7 @@
 <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 
 <h3>🌐 Frameworks and Database</h3>
-<img src="https://skillicons.dev/icons?i=flask,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=flask,fastapi,mongodb,mysql" />
 
 <h3>🤖 AI/ML & Tools</h3>
 <img src="https://skillicons.dev/icons?i=sklearn,vscode,ubuntu,docker,aws" />
