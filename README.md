@@ -106,8 +106,9 @@
 
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats-five-green-56.vercel.app?user=sayan-mondal2022&theme=meta-dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats-five-green-56.vercel.app?user=sayan-mondal2022&theme=meta-dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Sayan-Mondal2022&theme=dark&hide_border=true)
 
 </div>
 
