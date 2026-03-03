@@ -1,32 +1,53 @@
-<h1>
+<h1 align="center">
   <b>Hii</b> 
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50"/>
   <b>my name is Sayan</b>
 </h1>
 
-<p>
+<p align="center">
   <em>Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning</em><br>
   💡 Passionate about transforming ideas into real-world AI-driven applications.<br>
   🚀 Striving to build solutions that are not just functional, but meaningful and impactful.
 </p>
 
+<p align="center">
 
-<h1>
+  <a href="https://portfolio.sayansm.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>&nbsp
+
+  <a href="https://linkedin.com/in/sayan-sm">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp
+
+  <a href="mailto:sayan.sm2024@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp
+
+</p>
+
+<h1 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32">
   Tech Stack
 </h1>
 
-<h3>💻 Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+</p>
 
-<h3>🌐 Frameworks and Database</h3>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,mongodb,mysql" />
+<h3 align="center">🌐 Frameworks & Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,mongodb,mysql" />
+</p>
 
-<h3>🤖 AI/ML & Tools</h3>
-<img src="https://skillicons.dev/icons?i=sklearn,vscode,ubuntu,docker,aws" />
+<h3 align="center">🤖 AI/ML & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,docker,aws,ubuntu,vscode" />
+</p>
 
 
-<h2>
+<h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
   Featured Projects
 </h2>
@@ -106,19 +127,26 @@
 
 
 <div align="center">
-
+  
 <!-- [![GitHub Streak](https://github-readme-streak-stats-five-green-56.vercel.app?user=sayan-mondal2022&theme=meta-dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats) -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sayan-Mondal2022&theme=dark&hide_border=true)
 
 </div>
 
 
-## 📫 Connect with Me
+<h2 align="center"> Let's Connect </h2>
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sayan-sm)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:sayan.sm2024@gmail.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Sayan-Mondal2022)
-
+<p align="center">
+  <a href="https://linkedin.com/in/sayan-sm">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>&nbsp
+  <a href="mailto:sayan.sm2024@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>&nbsp
+  <a href="https://github.com/Sayan-Mondal2022">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>&nbsp
+</p>
 
 ⭐ *“Good code is its own best documentation.”*  
-<p align="right">–  Steve McConnell ✨</p>
+<p align="right">– Steve McConnell ✨</p>
